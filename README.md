@@ -8,14 +8,12 @@ What can this offer you that you can't get somewhere else? This a minimal and ad
 #### Sort and Search
 #### Two Pointers
 #### Kadane Family
-#### Stacks
-#### Windows
-
-LCS relationship
-
+#### Windows, Stacks, and Queues
+### Given an array of unsorted integers...
+#### Longest Increasing Subsequence
+##### The Artist known as Knuth
 ### The O(N+M) String Algorithms
-
-Subtree
+#### Subtrees
 
 ## Greedy Algorithms
 ### Stay Ahead
@@ -26,8 +24,10 @@ Subtree
 ## Dynamic Programming
 ### P-Segment Tables
 ### Generalized Algebraic Dynamic Programming
+### Longest Common Subsequence
 
 ## Abusing Data Structures for Fun and Profit
 ### Heaps
 ### Hashes
+#### Bloom
 ### The Forest of Trees
