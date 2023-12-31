@@ -10,6 +10,10 @@ What can this offer you that you can't get somewhere else? This a minimal and ad
 
 ### Longest Increasing Subsequence
 
+LCS relationship
+
+### The O(N+M) String Algorithms
+
 ## Greedy Algorithms
 
 ### Stay Ahead
@@ -18,8 +22,18 @@ What can this offer you that you can't get somewhere else? This a minimal and ad
 
 ### Anchor
 
+### Graphs
+
 ## Dynamic Programming
 
 ### P-Segment Tables
 
 ### Generalized Algebraic Dynamic Programming
+
+## Abusing Data Structures for Fun and Profit
+
+### Heaps
+
+### Hashes
+
+### The Forest of Trees
